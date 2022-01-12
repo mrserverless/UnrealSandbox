@@ -101,33 +101,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ArchVisCharacter",
-			"Enabled": false
-		},
-		{
-			"Name": "CameraShakePreviewer",
-			"Enabled": false
-		},
-		{
-			"Name": "CharacterAI",
-			"Enabled": false
-		},
-		{
-			"Name": "CodeLiteSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "XCodeSourceCodeAccess",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Mac"
-			]
-		},
-		{
-			"Name": "SubversionSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [

@@ -113,10 +113,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "CLionSourceCodeAccess",
-			"Enabled": false
-		},
-		{
 			"Name": "CodeLiteSourceCodeAccess",
 			"Enabled": false
 		},
@@ -126,10 +122,6 @@
 			"SupportedTargetPlatforms": [
 				"Mac"
 			]
-		},
-		{
-			"Name": "VisualStudioCodeSourceCodeAccess",
-			"Enabled": false
 		},
 		{
 			"Name": "SubversionSourceControl",
@@ -144,10 +136,6 @@
 			]
 		},
 		{
-			"Name": "RiderSourceCodeAccess",
-			"Enabled": false
-		},
-		{
 			"Name": "Paper2D",
 			"Enabled": false
 		},
@@ -158,18 +146,6 @@
 				"IOS",
 				"TVOS"
 			]
-		},
-		{
-			"Name": "OnlineSubsystemNull",
-			"Enabled": false
-		},
-		{
-			"Name": "OnlineSubsystemUtils",
-			"Enabled": false
-		},
-		{
-			"Name": "OnlineSubsystem",
-			"Enabled": false
 		},
 		{
 			"Name": "NeuralNetworkInference",
@@ -185,6 +161,18 @@
 		},
 		{
 			"Name": "IOSDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
 			"Enabled": false
 		}
 	]

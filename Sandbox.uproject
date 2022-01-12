@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A449B33B-405D-0DE4-56DF-7791D3D6B493}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Sandbox",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
